@@ -1,0 +1,7 @@
+pip install -r requirements.txt  (run first)
+
+
+pip install opencv-python torch ultralytics(run next)
+
+
+python d:\san\object-detection.py(run last)
